@@ -85,3 +85,10 @@ export OPENAI_API_KEY="your_key_here"
 ## Project Story
 
 The project demonstrates a practical AI sales copilot: CRM data flows into Python, AI features generate summaries and recommendations, and the dashboard tracks conversion, time saved, response time, AI usage, and pipeline health.
+
+## Data Source
+
+This project uses synthetic B2B CRM and meeting transcript data created for demonstration purposes.
+
+Public Kaggle dataset options are documented in [data_sources.md](docs/data_sources.md).
+
