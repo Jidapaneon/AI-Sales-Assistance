@@ -79,7 +79,7 @@ export OPENAI_API_KEY="your_key_here"
 
 ## Live Demo
 
-[Open the AI Sales Assistant Dashboard](https://your-app-name.streamlit.app)
+[Open the AI Sales Assistant Dashboard](https://ai-sales-assistance-3t9yedffleire4v3q87lca.streamlit.app)
 
 
 ## Project Story
