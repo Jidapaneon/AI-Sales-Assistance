@@ -6,27 +6,25 @@ Purpose: show how AI improves commercial team productivity by helping sales team
 
 You are advising a B2B sales organization where reps manually summarize meetings, leads are not consistently prioritized, managers lack pipeline visibility, and CRM notes vary in quality.
 
+## Project Overview
+
+AI Sales Assistant is a Streamlit dashboard and AI sales copilot prototype. It demonstrates how AI can help B2B sales teams save time, prioritize leads, improve follow-up, and increase conversion.
+
+The project combines business analysis, sample CRM data, AI-assisted sales features, and KPI tracking in one practical demo.
+
 ## Dashboard Screenshots
 
 ### KPI Dashboard
+
 ![KPI Dashboard](assets/screenshots/kpi-dashboard.png)
 
 ### AI Features
+
 ![AI Features](assets/screenshots/ai-features.png)
 
 ### Business Case
+
 ![Business Case](assets/screenshots/business-case.png)
-
-## Deliverables
-
-- [Executive summary](docs/executive_summary.md)
-- [AI use case canvas](docs/ai_use_case_canvas.md)
-- [Stakeholder map](docs/stakeholder_map.md)
-- [Pain points and process flow](docs/process_flow.md)
-- [KPI baseline](docs/kpi_baseline.md)
-- [Architecture diagram](docs/architecture.md)
-- [Public data source options](docs/data_sources.md)
-- Streamlit KPI dashboard and AI feature demo in [src/app.py](src/app.py)
 
 ## AI Features
 
@@ -47,6 +45,17 @@ You are advising a B2B sales organization where reps manually summarize meetings
 | Admin Time Saved | Estimated time saved from AI-assisted summaries, notes, and drafts. |
 | AI Usage | Adoption of AI features across sales workflows. |
 | Pipeline Health | Opportunity quality based on score, activity, and risk signals. |
+
+## Deliverables
+
+- [Executive summary](docs/executive_summary.md)
+- [AI use case canvas](docs/ai_use_case_canvas.md)
+- [Stakeholder map](docs/stakeholder_map.md)
+- [Pain points and process flow](docs/process_flow.md)
+- [KPI baseline](docs/kpi_baseline.md)
+- [Architecture diagram](docs/architecture.md)
+- [Public data source options](docs/data_sources.md)
+- Streamlit KPI dashboard and AI feature demo in [src/app.py](src/app.py)
 
 The app uses deterministic demo logic by default. If `OPENAI_API_KEY` is set, the text-generation features can call the OpenAI API.
 
