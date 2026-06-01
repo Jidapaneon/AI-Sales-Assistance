@@ -1,0 +1,13 @@
+opportunity_id,account,industry,region,deal_value,stage,probability,last_activity_days,meetings_count,email_opens,decision_makers,competitor_present,crm_note_quality,rep,created_date,close_date,outcome
+OPP-1001,Northstar Analytics,Software,APAC,85000,Proposal,0.62,4,5,11,3,Yes,Messy,Ava,2026-01-08,2026-03-24,Won
+OPP-1002,BluePeak Logistics,Transport,NA,42000,Discovery,0.31,15,2,3,1,No,Missing,Noah,2026-01-18,2026-04-02,Lost
+OPP-1003,Helio Health,Healthcare,EMEA,120000,Negotiation,0.74,2,7,18,4,Yes,Good,Mia,2026-02-01,2026-04-12,Won
+OPP-1004,ForgeWorks Manufacturing,Manufacturing,NA,68000,Qualification,0.28,22,1,1,1,Unknown,Messy,Liam,2026-02-10,2026-05-05,Lost
+OPP-1005,Evergreen Finance,Financial Services,APAC,150000,Proposal,0.57,9,4,8,2,Yes,Good,Ava,2026-02-13,2026-05-11,Open
+OPP-1006,Acme Cloud Retail,Retail,EMEA,36000,Discovery,0.39,6,3,7,2,No,Messy,Noah,2026-02-21,2026-05-14,Open
+OPP-1007,Orion Energy,Energy,APAC,210000,Negotiation,0.69,12,6,10,3,Yes,Missing,Mia,2026-03-02,2026-06-18,Open
+OPP-1008,MetroGov Services,Government,NA,94000,Proposal,0.52,5,4,6,5,No,Good,Liam,2026-03-09,2026-06-27,Open
+OPP-1009,Quantum Foods,Food Services,EMEA,28000,Qualification,0.24,18,1,2,1,Unknown,Missing,Ava,2026-03-15,2026-07-01,Lost
+OPP-1010,Atlas Robotics,Manufacturing,APAC,175000,Negotiation,0.81,1,8,22,4,No,Good,Noah,2026-03-20,2026-07-12,Won
+OPP-1011,Zenith Learning,Education,NA,51000,Discovery,0.44,7,3,5,2,No,Messy,Mia,2026-03-28,2026-07-18,Open
+OPP-1012,CivicPay,Financial Services,EMEA,132000,Proposal,0.59,13,5,9,3,Yes,Messy,Liam,2026-04-03,2026-08-01,Open
