@@ -16,11 +16,13 @@ The project combines business analysis, sample CRM data, AI-assisted sales featu
 
 ### KPI Dashboard
 
-![KPI Dashboard](assets/screenshots/kpi-dashboard.png)
+![KPI Dashboard](assets/screenshots/kpi-dashboard1.png)
+![KPI Dashboard](assets/screenshots/kpi-dashboard2.png)
 
 ### AI Features
 
-![AI Features](assets/screenshots/ai-features.png)
+![AI Features](assets/screenshots/ai-features1.png)
+![AI Features](assets/screenshots/ai-features2.png)
 
 ### Business Case
 
