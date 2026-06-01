@@ -6,6 +6,17 @@ Purpose: show how AI improves commercial team productivity by helping sales team
 
 You are advising a B2B sales organization where reps manually summarize meetings, leads are not consistently prioritized, managers lack pipeline visibility, and CRM notes vary in quality.
 
+## Dashboard Screenshots
+
+### KPI Dashboard
+![KPI Dashboard](assets/screenshots/kpi-dashboard.png)
+
+### AI Features
+![AI Features](assets/screenshots/ai-features.png)
+
+### Business Case
+![Business Case](assets/screenshots/business-case.png)
+
 ## Deliverables
 
 - [Executive summary](docs/executive_summary.md)
@@ -17,13 +28,25 @@ You are advising a B2B sales organization where reps manually summarize meetings
 - [Public data source options](docs/data_sources.md)
 - Streamlit KPI dashboard and AI feature demo in [src/app.py](src/app.py)
 
-## AI Features In Scope
+## AI Features
 
-- Meeting summarizer
-- Lead scoring
-- Email drafting assistant
-- Opportunity risk detection
-- CRM note cleanup
+| Feature | Description |
+| --- | --- |
+| AI Meeting Summarizer | Summarizes sales meeting notes into customer needs, risks, buying signals, and next steps. |
+| Lead Scoring | Prioritizes opportunities using deal value, probability, engagement, decision makers, and recent activity. |
+| Email Drafting Assistant | Creates follow-up email drafts based on meeting context. |
+| Opportunity Risk Detection | Flags risks such as stale activity, competitor presence, and messy CRM notes. |
+| CRM Note Cleanup | Converts inconsistent CRM notes into a cleaner structured format. |
+
+## Business KPIs
+
+| KPI | What It Measures |
+| --- | --- |
+| Lead Conversion | How many opportunities convert into won deals. |
+| Average Response Time | How quickly reps follow up after meetings. |
+| Admin Time Saved | Estimated time saved from AI-assisted summaries, notes, and drafts. |
+| AI Usage | Adoption of AI features across sales workflows. |
+| Pipeline Health | Opportunity quality based on score, activity, and risk signals. |
 
 The app uses deterministic demo logic by default. If `OPENAI_API_KEY` is set, the text-generation features can call the OpenAI API.
 
