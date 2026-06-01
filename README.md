@@ -77,6 +77,11 @@ Optional:
 export OPENAI_API_KEY="your_key_here"
 ```
 
+## Live Demo
+
+[Open the AI Sales Assistant Dashboard](https://your-app-name.streamlit.app)
+
+
 ## Project Story
 
 The project demonstrates a practical AI sales copilot: CRM data flows into Python, AI features generate summaries and recommendations, and the dashboard tracks conversion, time saved, response time, AI usage, and pipeline health.
